@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jattendais-ton-retour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: J'attendais Ton Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jattendais-ton-retour/) |
+| **Get License** | [Get a Licensing Quote for J'attendais Ton Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jattendais-ton-retour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit noire, ton parfum vient m'enivrer
+> Je roule vite, le cœur prêt à chavirer
+> J'attendais ton retour, j'suis prêt à tout risquer
+> Un seul regard et tu m'as captivé
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
