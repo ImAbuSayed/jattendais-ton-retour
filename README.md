@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jattendais-ton-retour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for J'attendais Ton Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jattendais-ton-retour/) |
+| **Get License** | [License this song: J'attendais Ton Retour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jattendais-ton-retour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6163040d9e4e6c94f0ef5ac2f4a5bd958505d1821f9d5ad0e8103c37d147c4a6` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
